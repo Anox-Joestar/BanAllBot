@@ -1,5 +1,5 @@
 build:
-  docker: @*! 844496790*04007787
+  docker:
     worker: Dockerfile
 run:
   worker: python3 -m Natsu_RoxBot
